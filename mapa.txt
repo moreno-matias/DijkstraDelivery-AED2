@@ -1,0 +1,44 @@
+1 2 61 Buenos Aires - CABA
+1 6 757 Buenos Aires - Cordoba
+1 8 555 Buenos Aires - Entre Rios
+1 11 670 Buenos Aires - La Pampa
+1 16 957 Buenos Aires - Rio Negro
+1 21 527 Buenos Aires - Santa Fe
+3 6 440 Catamarca - Cordoba
+3 12 156 Catamarca - La Rioja
+3 17 539 Catamarca - Salta
+3 22 212 Catamarca - Santiago del Estero
+3 24 232 Catamarca - Tucuman
+4 7 23 Chaco - Corrientes
+4 9 168 Chaco - Formosa
+4 17 780 Chaco - Salta
+4 21 545 Chaco - Santa Fe
+4 22 610 Chaco - Santiago del Estero
+5 16 495 Chubut - Rio Negro
+5 20 1180 Chubut - Santa Cruz
+6 11 600 Cordoba - La Pampa
+6 12 435 Cordoba - La Rioja
+6 19 420 Cordoba - San Luis
+6 21 330 Cordoba - Santa Fe
+6 22 430 Cordoba - Santiago del Estero
+7 8 590 Corrientes - Entre Rios
+7 14 315 Corrientes - Misiones
+7 21 568 Corrientes - Santa Fe
+8 21 31 Entre Rios - Santa Fe
+9 17 948 Formosa - Salta
+10 17 99 Jujuy - Salta
+11 13 765 La Pampa - Mendoza
+11 15 537 La Pampa - Neuquen
+11 16 594 La Pampa - Rio Negro
+11 19 505 La Pampa - San Luis
+12 18 450 La Rioja - San Juan
+12 19 550 La Rioja - San Luis
+13 15 855 Mendoza - Neuquen
+13 18 167 Mendoza - San Juan
+13 19 260 Mendoza - San Luis
+15 16 660 Neuquen - Rio Negro
+17 22 467 Salta - Santiago del Estero
+17 24 307 Salta - Tucuman
+18 19 320 San Juan - San Luis
+21 22 607 Santa Fe - Santiago del Estero
+22 24 160 Santiago del Estero - Tucuman
